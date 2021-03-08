@@ -1,0 +1,44 @@
+{
+  "id": "2196324",
+  "name": "learn-english-web",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "12473808",
+      "name": "列表",
+      "font_class": "liebiao2",
+      "unicode": "e61e",
+      "unicode_decimal": 58910
+    },
+    {
+      "icon_id": "571725",
+      "name": "列表",
+      "font_class": "liebiao",
+      "unicode": "e62e",
+      "unicode_decimal": 58926
+    },
+    {
+      "icon_id": "217338",
+      "name": "map",
+      "font_class": "map",
+      "unicode": "e62a",
+      "unicode_decimal": 58922
+    },
+    {
+      "icon_id": "2593577",
+      "name": "排序",
+      "font_class": "paixu",
+      "unicode": "e609",
+      "unicode_decimal": 58889
+    },
+    {
+      "icon_id": "9974807",
+      "name": "随机",
+      "font_class": "suiji",
+      "unicode": "e71f",
+      "unicode_decimal": 59167
+    }
+  ]
+}
